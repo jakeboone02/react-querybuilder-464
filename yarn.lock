@@ -1038,15 +1038,15 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@react-querybuilder/ctx@^5.4.1":
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/@react-querybuilder/ctx/-/ctx-5.4.1.tgz#114ea413b19393785a0b8017c7bcbea4c4265de8"
-  integrity sha512-v4sIxzOZgr/io6Tz96YUDxpBw7XFxbWqB1qhr+p3gKNfM3x9qqIQSAx2i9sASXt0pv10EainVQYCy5BoYQ+lig==
+"@react-querybuilder/ctx@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@react-querybuilder/ctx/-/ctx-6.0.0.tgz#5c7a54da5fa0230973caa695a4f3bc6d4ca8f758"
+  integrity sha512-JOvAvZUZ6xDVYRZd8342NIGmHwEm5dV0YSA3ajn6gGzIoowkvuAr2N10YG4mbMOqPmwwvuSeyWGqjOQ2JLwhEA==
 
-"@react-querybuilder/ts@^5.4.1":
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/@react-querybuilder/ts/-/ts-5.4.1.tgz#dd926c2aff33e1ef1770abe7e8cef4776ea080ed"
-  integrity sha512-zYquHYbyoVLQ3Fa7ky4o6dPXGOvJjKFZdgIg9IDiqzYZ8F4WXuP/4OkDCwLRZNbUAsW1kUoPBqBdGeiitmmCUg==
+"@react-querybuilder/ts@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@react-querybuilder/ts/-/ts-6.0.0.tgz#aa152cba082557e1c1e32966aa32ddaa6b31caae"
+  integrity sha512-RGBgRDJm88msA0p284qWcKXoE95MkC81Govhgdl9bCYme1FP5D42mD7iqGIeGXq0s3xGNPmQ16RBruZKpSlAog==
 
 "@types/eslint-scope@^3.7.3":
   version "3.7.4"
@@ -1608,7 +1608,7 @@ icss-utils@^5.0.0, icss-utils@^5.1.0:
   resolved "https://registry.yarnpkg.com/icss-utils/-/icss-utils-5.1.0.tgz#c6be6858abd013d768e98366ae47e25d5887b1ae"
   integrity sha512-soFhflCVWLfRNOPU3iv5Z9VUdT44xFRbzjLsEzSr5AQmgqPMTHdU3PMT1Cf1ssx8fLNJDA1juftYl+PUcv3MqA==
 
-immer@^9.0.17:
+immer@^9.0.19:
   version "9.0.19"
   resolved "https://registry.yarnpkg.com/immer/-/immer-9.0.19.tgz#67fb97310555690b5f9cd8380d38fc0aabb6b38b"
   integrity sha512-eY+Y0qcsB4TZKwgQzLaE/lqYMlKhv5J9dyd2RhhtGhNo2njPXDqU9XPfcNfa3MIDsdtZt5KlkIsirlo4dHsWdQ==
@@ -1948,15 +1948,15 @@ react-dom@^17.0.2:
     object-assign "^4.1.1"
     scheduler "^0.20.2"
 
-react-querybuilder@^5.4.1:
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/react-querybuilder/-/react-querybuilder-5.4.1.tgz#7bd4cd73d54ad659128bc76f58ef40cf566173a3"
-  integrity sha512-bKHGpLRaGDDGOXr0KnmBNr2Jl1ZdN9HfV+6PSHoeQJnxdgneh7Em/V3PIESNyEak6+j0Sfmha2lKmfI/Dn2p+w==
+react-querybuilder@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/react-querybuilder/-/react-querybuilder-6.0.0.tgz#3e2e66e15be0c1b85db666865ce4a90e7e06ac33"
+  integrity sha512-SCgPU6iDuXxsICA6lw/D+Wl5YqWIpFK4vEVX4SmKrw6oW7S/UrA3kGIQD8yesbFd5kZlyo4TQ4gcix3BjSB+bg==
   dependencies:
-    "@react-querybuilder/ctx" "^5.4.1"
-    "@react-querybuilder/ts" "^5.4.1"
+    "@react-querybuilder/ctx" "^6.0.0"
+    "@react-querybuilder/ts" "^6.0.0"
     clsx "^1.2.1"
-    immer "^9.0.17"
+    immer "^9.0.19"
 
 react@^17.0.2:
   version "17.0.2"
